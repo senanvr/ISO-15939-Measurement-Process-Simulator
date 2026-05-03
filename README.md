@@ -12,6 +12,59 @@ Open project in IntelliJ IDEA → Run `src/Main.java`
 
 ---
 
+## Project Structure
+
+src/
+
+    controller/
+
+        AppController.java
+
+    Main/
+
+        Main.java
+
+    model/
+
+        Dimension.java
+
+        Direction.java
+
+        Metric.java
+
+        Mode.java
+
+        QualityLevel.java
+
+        QualityType.java
+
+        Scenario.java
+
+        ScenarioManager.java
+
+        User.java
+
+    view/
+
+        AnalysePanel.java
+
+        BasePanel.java
+
+        CollectPanel.java
+
+        DefinePanel.java
+
+        MainFrame.java
+
+        PlanPanel.java
+
+        ProfilePanel.java
+
+        RadarPanel.java
+
+        StepIndicatorPanel.java
+---
+
 ## Screenshots
 
 **Step 1 - Profile**
