@@ -15,21 +15,21 @@ Open project in IntelliJ IDEA → Run `src/Main.java`
 ## Screenshots
 
 **Step 1 - Profile**
-![Step 1](ISO1.png)
+![Step 1](ISO_Screenshots/ISO1.png)
 
 **Step 2 - Define**
-![Step 2](ISO2.png)
+![Step 2](ISO_Screenshots/ISO2.png)
 
 **Step 3 - Plan**
-![Step 3](ISO3.png)
+![Step 3](ISO_Screenshots/ISO3.png)
 
 **Step 4 - Collect**
-![Step 4](ISO4.png)
+![Step 4](ISO_Screenshots/ISO4.png)
 
 **Step 5 - Analysis Results**
-![Step 5](ISO5.png)
-![Step 5](ISO6.png)
-![Step 5](ISO7.png)
+![Step 5](ISO_Screenshots/ISO5.png)
+![Step 5](ISO_Screenshots/ISO6.png)
+![Step 5](ISO_Screenshots/ISO7.png)
 
 ---
 
